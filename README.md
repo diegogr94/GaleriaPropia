@@ -69,6 +69,9 @@ Sigue estos pasos para levantar el proyecto en tu máquina de desarrollo. Necesi
 ```bash
 git clone [https://github.com/tu-usuario/galeria-arte-propia.git](https://github.com/tu-usuario/galeria-arte-propia.git)
 
+git clone [https://github.com/tu-usuario/galeria-arte-propia.git](https://github.com/tu-usuario/galeria-arte-propia.git)
+```
+
 ## 📅 Evolución del Proyecto (Cronología Completa)
 Documentación detallada del avance semanal del proyecto.
 
